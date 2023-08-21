@@ -1,0 +1,42 @@
+.CardsSkillMain{
+    width: 100%;
+    min-height: 260px;
+    height: auto;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    padding: 5px;
+    padding-top: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#SkillsConatinerwhitewave{
+    background-image: url(./abstract-background-smooth-transparent-wave-white-background_206325-1155.avif);
+}
+.SkillsListImages{
+    width: 60px;
+}
+.SkillsListHeadings{
+    font-size: 17px;
+    margin-top: 20px;
+    
+    font-family: 'Raleway', sans-serif !important; 
+
+}
+.SkillsListParagraph{
+    font-family: 'Raleway', sans-serif !important; 
+margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 20px;
+    
+}
+#ProfessionalSkills{
+    text-align: center;
+    color: #ff014f;
+    font-size: 26px;
+    font-family: 'Barlow Condensed', sans-serif !important;
+
+
+}

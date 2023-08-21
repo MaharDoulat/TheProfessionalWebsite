@@ -1,0 +1,73 @@
+#SkillsImageDIv{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    padding-top: 120px;
+}
+#ImageSkills{
+    width: auto;
+    border: 2px black solid;
+    border-radius: 5px;
+    border-top-left-radius: 0%;
+    box-shadow: black 5px 5px;
+    
+}
+#SkillsMainDIv{
+    padding: 130px 30px 0px 40px;
+}
+.AboutUs{
+    color:#ff014f ;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif !important; 
+}
+#SkillsHireMe{
+    font-family: 'Barlow Condensed', sans-serif !important;
+    width: 50%;
+font-size: 40px;
+margin-top: 20px;
+}
+.AboutUsProfession{
+    color:#ff014f ;
+    font-size: 14px;
+    margin-top: 10px;
+    font-family: 'Raleway', sans-serif !important; 
+    
+}
+#WhyHireMePara{
+    font-size: 18px;
+    font-family: 'Barlow Condensed', sans-serif !important;
+margin-top: 20px;
+
+}
+#StacKAbout{
+    margin-top: 10px;
+}
+
+.StackNamesSpan{
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif !important; 
+color: black;
+}
+.StackNamesSpanValue{
+    font-family: 'Raleway', sans-serif !important; 
+
+}
+@media only screen and (max-width: 1140px) {
+    #SkillsHireMe{
+    width: 100%;
+    }
+
+     }
+
+
+@media only screen and (max-width: 550px) {
+    #ImageSkills{
+        min-width: 80%;
+    }
+     }
+
+     @media only screen and (max-width: 350px) {
+        #SkillsHireMe{
+        font-size: 30px;
+        }
+         }

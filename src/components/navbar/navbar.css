@@ -1,0 +1,56 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+   
+}
+html{
+    scroll-behavior: smooth ;
+}
+.PagesInNav{
+    
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 16px;
+    font-weight: 600 !important;
+    padding: 0%;
+    text-decoration: none;
+    color: black;
+    background-color:white ;
+}
+.ButtonsOfNav{
+    border: none;
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    margin: 2px ;
+    border-bottom: white solid 2px;
+    cursor: pointer;
+}
+.ButtonsOfNav:hover{
+    border-bottom: #ff014f solid 2px;
+    color: black !important;
+
+}
+.PagesInNav:hover{
+    color: black !important;
+
+}
+.ButtonsOfNavRES{
+    border: none;
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    margin: 2px ;
+    border-bottom: white solid 2px;
+    cursor: pointer;
+}
+.ButtonsOfNavRES:hover{
+    border-bottom: #ff014f solid 2px;
+    
+}
+.PagesInNavRES{
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 16px;
+    font-weight: 600 !important;
+    padding: 0%;
+    text-decoration: none;
+    color: #212428;
+    background-color:white ;
+}

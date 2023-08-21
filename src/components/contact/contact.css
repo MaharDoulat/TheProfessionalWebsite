@@ -1,0 +1,40 @@
+#ContactMaindiv{
+    width: 100%;
+    min-height: 400px;
+    background-color: #f3f4f6;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px 0px 20px 0px;
+    margin-bottom: 100px;
+}
+#feelfreetocontactme{
+    font-family: 'Barlow Condensed', sans-serif !important;
+    text-align: center;
+    font-size: 50px;
+}
+#Imagecontactsection{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    align-items: center;
+}
+#ContactImageFree{
+    height: 200px; 
+    width: 200px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+.ContactSocialIcons{
+    margin-top: 30px;
+    padding: 10px;
+    color: black;
+}
+.ContactSocialIcons:hover{
+   color: #ff014f;
+   cursor: pointer;
+    
+}
+#mainSocialIconsDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
